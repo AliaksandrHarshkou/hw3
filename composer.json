@@ -1,0 +1,12 @@
+{
+  "name": "ahor/hw3",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Ahor\\Hw3\\": "src/"
+    }
+  },
+  "require": {
+    "php": "8.3"
+  }
+}
